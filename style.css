@@ -63,7 +63,13 @@ section{ display: flex;  }
     color: #ffffff;
     font-size: 20px;
     font-weight: 900;
+    text-transform: uppercase; }
+.bottomside h1{ text-align: center;
+    color: #ffffff;
+    font-size: 10px;
+    font-weight: 900;
     text-transform: uppercase; } 
+
 .rightside p {  
     font-size: 1.1rem; padding: 30px 0; }
 
