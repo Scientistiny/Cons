@@ -61,7 +61,7 @@ section{ display: flex;  }
 
 .rightside h1{ text-align: center;
     color: #ffffff;
-    font-size: 60px;
+    font-size: 100px;
     font-weight: 900;
     text-transform: uppercase; }
 .rightside p {  
