@@ -82,9 +82,9 @@ section{ display: flex;  }
       background: linear-gradient(57deg, #1E4D92, #00C6A7 );   
 }
 
-.bottomside h2{ text-align: leftside;
+.bottomside h2{ text-align: center;
     color: #ffffff;
-    font-size: 10px;
+    font-size: 40px;
     font-weight: 900;
     text-transform: uppercase; }
    
