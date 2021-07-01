@@ -82,7 +82,7 @@ section{ display: flex;  }
       background: linear-gradient(57deg, #1E4D92, #00C6A7 );   
 }
 
-.bottomside h1{ text-align: leftside;
+.bottomside h2{ text-align: leftside;
     color: #ffffff;
     font-size: 10px;
     font-weight: 900;
